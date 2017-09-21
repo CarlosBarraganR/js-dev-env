@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
+    "start": "npm-run-all --parallel security-check open",
+    "share": "npm-run-all --parallel security-check open localtunnel",
+    "open": "babel-node build_scripts/srcServer.js",
+    "security-check": "nsp check",
+    "localtunnel": "lt --port 3000"
   },
   "author": "Carlos Barragan",
   "license": "MIT",
