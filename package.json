@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
-    "start": "npm-run-all --parallel security-check lint:watch open",
+    "start": "npm-run-all --parallel security-check lint:watch test:watch open",
     "share": "npm-run-all --parallel security-check lint:watch open localtunnel",
     "open": "babel-node build_scripts/srcServer.js",
     "security-check": "nsp check",
     "localtunnel": "lt --port 3000",
     "lint": "esw webpack.config.* src build_scripts --color",
-    "lint:watch": "npm run lint -- --watch"
+    "lint:watch": "npm run lint -- --watch",
+    "test": "mocha --reporter nyan build_scripts/testSetup.js \"src/**/*.test.js\"",
+    "test:watch": "npm run test -- --watch"
   },
   "author": "Carlos Barragan",
   "license": "MIT",
