@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 99839105,
+      "firstName": "Briana",
+      "lastName": "Lueilwitz",
+      "email": "Ed72@gmail.com"
+    },
+    {
+      "id": 48076419,
+      "firstName": "Veronica",
+      "lastName": "Ferry",
+      "email": "Harley.Quitzon11@yahoo.com"
+    },
+    {
+      "id": 81666721,
+      "firstName": "Celestino",
+      "lastName": "Howe",
+      "email": "Cayla_Douglas@gmail.com"
+    },
+    {
+      "id": 90896801,
+      "firstName": "Ali",
+      "lastName": "Harber",
+      "email": "Reba.Beahan@hotmail.com"
+    },
+    {
+      "id": 77020003,
+      "firstName": "Cayla",
+      "lastName": "Schuster",
+      "email": "Christophe51@gmail.com"
+    },
+    {
+      "id": 91535112,
+      "firstName": "Emiliano",
+      "lastName": "Paucek",
+      "email": "Elisa81@hotmail.com"
+    }
+  ]
+}
