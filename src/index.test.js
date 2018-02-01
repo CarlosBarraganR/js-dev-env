@@ -19,3 +19,327 @@ describe('index.html', () => {
     });
   });
 });
+
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+describe('index.html', () => {
+  it('title should be USERS', (done) => {
+    const index = fs.readFileSync('./src/index.html', 'utf-8');
+    jsdom.env(index, (err,window) => {
+      const h1 = window.document.getElementsByTagName('h1')[0];
+      expect(h1.innerHTML).to.equal("Users");
+      done();
+      window.close();
+    });
+  });
+});
+
